@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/forecast-app/static/js/runtime~main.cfa6f48a.js"
   },
   {
-    "revision": "8987ce641d95151af08d",
+    "revision": "6c6955eaf2a74d16b96b",
     "url": "/forecast-app/static/js/main.0fdb6207.chunk.js"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/forecast-app/static/js/2.36aae0d1.chunk.js"
   },
   {
-    "revision": "8987ce641d95151af08d",
-    "url": "/forecast-app/static/css/main.6e406e7d.chunk.css"
+    "revision": "6c6955eaf2a74d16b96b",
+    "url": "/forecast-app/static/css/main.84cee21d.chunk.css"
   },
   {
-    "revision": "5fcaf2ec2a095a4cf9d1675f9b2f23af",
+    "revision": "a7a9e168d92d68dacc793d8e9b296a17",
     "url": "/forecast-app/index.html"
   }
 ];
