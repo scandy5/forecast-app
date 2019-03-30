@@ -1,0 +1,15 @@
+{
+  "main.css": "/forecast-app/static/css/main.6e406e7d.chunk.css",
+  "main.js": "/forecast-app/static/js/main.0fdb6207.chunk.js",
+  "main.js.map": "/forecast-app/static/js/main.0fdb6207.chunk.js.map",
+  "runtime~main.js": "/forecast-app/static/js/runtime~main.cfa6f48a.js",
+  "runtime~main.js.map": "/forecast-app/static/js/runtime~main.cfa6f48a.js.map",
+  "static/js/2.36aae0d1.chunk.js": "/forecast-app/static/js/2.36aae0d1.chunk.js",
+  "static/js/2.36aae0d1.chunk.js.map": "/forecast-app/static/js/2.36aae0d1.chunk.js.map",
+  "index.html": "/forecast-app/index.html",
+  "precache-manifest.e718095862a67ccb431778d1fb11d219.js": "/forecast-app/precache-manifest.e718095862a67ccb431778d1fb11d219.js",
+  "service-worker.js": "/forecast-app/service-worker.js",
+  "static/css/main.6e406e7d.chunk.css.map": "/forecast-app/static/css/main.6e406e7d.chunk.css.map",
+  "static/media/Form.css": "/forecast-app/static/media/Vector_green.9f1ef7bf.svg",
+  "static/media/Info.css": "/forecast-app/static/media/polygon.951d3ec7.jpg"
+}
