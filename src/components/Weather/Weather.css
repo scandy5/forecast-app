@@ -1,0 +1,12 @@
+.weather {
+	padding-left: 60px;
+	margin-top: 5px;
+	color: white;
+	font-size: 20px;
+}
+.weather__error {
+	color: #F7DBCB;
+}
+.weather__forecast {
+	margin-top: 10px;
+}

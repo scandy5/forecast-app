@@ -1,0 +1,46 @@
+.form {
+	padding-left: 50px;
+	padding-top: 20px;
+	position: relative;
+	max-width: 300px;
+}
+.form__input {
+  margin-bottom: 30px;
+  padding: 22px 30px 22px 30px;
+  border: 2px solid transparent;
+  border-radius: 30px;
+  background-color: #f0f4f7;
+  max-width: 100%;
+  cursor: pointer;
+  outline: none;
+}
+.form__input:focus:valid {
+  border: 2px solid #6bca3e;
+  background: #fff;
+}
+.form__input:focus:placeholder-shown {
+  background-color: #fff;
+  border: 2px solid #e2eaf0;
+}
+.form__input:hover {
+  background-color: #e2eaf0;
+}
+.form__submit {
+  position: absolute;
+  top: 33px;
+  right: 10px;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  border: 2px solid #e2eaf0;
+  background: url("../../imgs/Vector.svg") center no-repeat;
+  background-color: #fff;
+  transition: all 0.25s ease;
+  outline: none;
+}
+.form__submit:hover {
+  border: 2px solid #6bca3e;
+  background: url("../../imgs/Vector_green.svg") center no-repeat;
+  background-color: #fff;
+}
+

@@ -1,0 +1,12 @@
+.info {
+	min-height: 500px;
+	background: url(../../imgs/polygon.jpg) center no-repeat;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	
+}
+.info__title {
+	margin: auto;
+	padding: 0 40px;
+}
