@@ -19,6 +19,6 @@ Demo you can see, if you click [here].
  - `npm run start` 
 
 ### Result:
-![home](https://github.com/scandy5/zakaz-dot-ua/blob/master/src/imgs/HomePage.jpg)
+![home](https://github.com/scandy5/forecast-app/blob/master/src/imgs/HomePage.jpg)
 
 [here]: https://scandy5.github.io/forecast-app
